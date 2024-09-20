@@ -1,0 +1,27 @@
+# Python bytecode
+*.py[cod]
+__pycache__/
+
+# Virtual environment
+env/
+venv/
+*.env
+
+# Ignore AVI and weight files
+*.avi
+*.weights
+*.cfg
+
+# Haarcascade XML fayllar
+*.xml
+
+# Logs
+*.log
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# IDE specific files
+.idea/
+.vscode/
